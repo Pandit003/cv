@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "883578713753",
+    "firebase_url": "https://fir-project-93472-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-project-93472",
+    "storage_bucket": "fir-project-93472.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883578713753:android:8274fde3fe85fac2e9ea08",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg0sOqhxDOo46xRTJ29u4Z5hCNFzRhyg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883578713753:android:f907427cb7a0f0b9e9ea08",
+        "android_client_info": {
+          "package_name": "com.example.rps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg0sOqhxDOo46xRTJ29u4Z5hCNFzRhyg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
